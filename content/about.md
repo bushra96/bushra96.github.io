@@ -35,7 +35,7 @@ what_i_do:
 menu:
   footer:
     name: Who's behind this?
-    weight: 2
+    weight: 3
 
 ---
 A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
