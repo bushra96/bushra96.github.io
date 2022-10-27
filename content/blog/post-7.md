@@ -12,18 +12,10 @@ categories: []
 
 _It's not for me to conjecture why you are here, but so long as you are, I hope you discover something worth your while. And may you remember and cherish it. Long after you have forgotten this place. That, my friend, shall be my present to you. A gift, only if you choose to accept it._
 
-> > > > > > What you seek, is seeking you.
-> > > > > >
-> > > > > > Some journeys need no roads, only a willing heart.
-> > > > > >
-> > > > > > _A commitment to justice carries with it an obligation to disobey unjust laws._
-> > > > > >
-> > > > > > * 
-> > > > > >
-> > > > > > It is a journey of the alone to the Alone, all alone.
-> > > > >
-> > > > > Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-> >
-> > > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+What you seek, is seeking you.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Some journeys need no roads, only a willing heart.
+
+_A commitment to justice carries with it an obligation to disobey unjust laws._
+
+It is a journey of the alone to the Alone, all alone.
