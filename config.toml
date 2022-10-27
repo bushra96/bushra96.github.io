@@ -26,56 +26,15 @@ name = "Terms & Conditions"
 url = "terms-conditions/"
 weight = 4
 [[menu.main]]
-name = "T&C"
-parent = "Pages"
-url = "terms-conditions/"
-weight = 6
-[[menu.main]]
-name = "Privacy"
-parent = "Pages"
-url = "privacy/"
-weight = 5
-[[menu.main]]
-name = "Elements"
-parent = "Pages"
-url = "elements/"
-weight = 4
-[[menu.main]]
-name = "Category"
-parent = "Pages"
-url = "categories/"
-weight = 3
-[[menu.main]]
 name = "Tags"
-parent = "Pages"
+parent = "So much more..."
 url = "tags/"
-weight = 2
-[[menu.main]]
-name = "Author"
-parent = "Pages"
-url = "author/"
-weight = 1
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 2
-[[menu.main]]
-name = "About"
-url = "about/"
-weight = 1
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 3
-[[menu.main]]
-name = "Buy Premium"
-url = "https://gethugothemes.com/products/bookworm/"
-weight = 4
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-url = "#"
 weight = 5
+[[menu.main]]
+name = "Who's behind this?"
+parent = "So much more..."
+url = "contact/"
+weight = 6
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
