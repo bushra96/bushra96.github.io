@@ -10,14 +10,6 @@ quality = "95"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "About"
-url = "about/"
-weight = 1
-[[menu.footer]]
-name = "Authors"
-url = "author/"
-weight = 2
-[[menu.footer]]
 name = "Privacy"
 url = "privacy/"
 weight = 3
@@ -26,15 +18,9 @@ name = "Terms & Conditions"
 url = "terms-conditions/"
 weight = 4
 [[menu.main]]
-name = "Tags"
-parent = "So much more..."
-url = "tags/"
-weight = 5
-[[menu.main]]
-name = "Who's behind this?"
-parent = "So much more..."
-url = "contact/"
-weight = 6
+name = "Life Lessons "
+url = "lifelessons/"
+weight = 2
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
