@@ -14,10 +14,10 @@ This is where I come seeking peace and hope. This is the place I come to when th
 
 _It's not for me to conjecture why you are here, but so long as you are, I hope you discover something worth your while. And may you remember and cherish it. Long after you have forgotten this place. That, my friend, shall be my present to you. A gift, only if you choose to accept it._
 
-What you seek, is seeking you.
+> What you seek, is seeking you.
 
-Some journeys need no roads, only a willing heart.
+**Some journeys need no roads, only a willing heart.**
 
-A commitment to justice carries with it an obligation to disobey unjust laws.
+> A commitment to justice carries with it an obligation to disobey unjust laws.
 
-It is a journey of the alone to the Alone, all alone.
+**It is a journey of the alone to the Alone, all alone.**
