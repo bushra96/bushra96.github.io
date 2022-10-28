@@ -22,4 +22,4 @@ _It's not for me to conjecture why you are here, but so long as you are, I hope 
 
 **It is a journey of the alone to the Alone, all alone.**
 
-PS: I don't claim the credit to these quotes. My sincerest apologies for those quotes for which credit has not been given. Either I don't know who said it or I forgot to note it down whenever and wherever, I came across the quotes. So, if you are going to use it anywhere, please be ethical.
+PS: I don't claim the credit to these quotes. Either I don't know who said it or I forgot to note it down whenever and wherever, I came across the quotes. So, if you are going to use it anywhere, please be ethical.
