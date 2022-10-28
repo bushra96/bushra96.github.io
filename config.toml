@@ -10,6 +10,29 @@ quality = "95"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Earth"
+parent = "So much more..."
+url = "earth/"
+weight = 4
+[[menu.main]]
+name = "Society"
+parent = "So much more..."
+url = "society/"
+weight = 3
+[[menu.main]]
+name = "Psychology"
+parent = "So much more..."
+url = "psych/"
+weight = 1
+[[menu.main]]
+name = "Room for Improvement"
+url = "improve/"
+weight = 4
+[[menu.main]]
+name = "UPSC"
+url = "upsc/"
+weight = 3
+[[menu.main]]
 name = "Life Lessons "
 url = "lifelessons/"
 weight = 2
