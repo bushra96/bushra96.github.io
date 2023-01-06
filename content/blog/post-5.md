@@ -1,7 +1,7 @@
 ---
 title: The Beginning of Change
 description: meta description
-image: images/post/04.jpg
+image: "/uploads/abstract-blue-and-white-questionnaire-header-linkedin-article-cover-image.png"
 date: 2018-10-27T06:30:00+00:00
 author: Bushra
 tags:
