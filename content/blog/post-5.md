@@ -21,6 +21,8 @@ We all do that. Mostly on new year.
 
 The second step is a tad bit complex. Analyzing what exactly needs to be changed... what to change/replace it with or for. This requires some introspection. Not easy.
 
+The third step which is actually the first one really... is the hardest. Because static friction is the greatest of all kinds of friction. Because your mind is hardwired to choose comfort and predictability over growth and possibilities. Because it is truly, physically, mentally difficult to do it the first time on the first day. 
+
 Take the case of that average young girl or guy... who has lived a routinized predictable life. One fine day, they wake up to find themselves face to face with a challenge they hasn't seen before. 
 
 Change. I changed myself. Instead of cursing others or blaming myself, I have forgiven myself. I have **realised** that _being caught up in the past_, wishing you were different or done something contrary to what you did, is not helpful. And while, I have read numerous quotes on this genre and it’s generally so obvious, it is never as _crystal clear_ unless you realise to **apply** it in your life.
